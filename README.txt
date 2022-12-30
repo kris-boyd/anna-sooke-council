@@ -1,4 +1,4 @@
-#Campaign website for Anna Russell running for Sooke Municipal Council
+# Campaign website for Anna Russell running for Sooke Municipal Council
 
 Modified template from:
 Spectral by HTML5 UP
